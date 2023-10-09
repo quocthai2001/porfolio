@@ -473,13 +473,13 @@ main{
 #resume .resume-row .resume-cols .pro-exp ul li{
     margin: 10px 0;
     margin-left: 20px;
-    color: #353535;
+    color: #000;
     font-size: 15px;
     font-weight: 500;
     text-align: justify;
 }
 #resume .resume-row .resume-cols .pro-exp a{
-    color: #353535;
+    color: #000;
     font-size: 17px;
     font-style: italic;
 }
