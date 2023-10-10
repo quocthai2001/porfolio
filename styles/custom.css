@@ -78,10 +78,10 @@ header nav ul li a i{
     transition: 0.4s;
 }
 header nav ul li a:hover i{
-    color: #F7C800;
+    color: #EFD595;
 }
 header nav ul li .active i{
-    color: #F7C800;
+    color: #EFD595;
 }
 .home-row span{
     color: #F7C800;
@@ -208,10 +208,11 @@ main{
 #about{
     position: relative;
     padding: 70px 30px;
-    background-color: #F7C800;
+/*     background-color: #F7C800; */
+    background-color: #EFD595;
 }
 #about svg{
-    fill: #F7C800;
+    fill: #EFD595;
     width: 100%;
     height: 32px;
     top: 100%;
@@ -378,11 +379,11 @@ main{
 /* Project */
 #resume{
     padding: 50px 30px;
-    background-color: #F7C800;
+    background-color: #EFD595;
     position: relative;
 }
 #resume .svg-top svg{
-    fill: #f7c800;
+    fill: #EFD595;
     width: 100%;
     height: 32px;
     top: 0%;
@@ -395,7 +396,7 @@ main{
     transform: rotateY(0deg);
 }
 #resume .svg-bottom svg{
-    fill: #F7C800;
+    fill: #EFD595;
     width: 100%;
     height: 32px;
     top: 100%;
