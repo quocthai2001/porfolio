@@ -291,6 +291,12 @@ main{
     font-weight: 500;
     font-size: 15px;
 }
+#about .about-col .info-col .icon-list-col .icon-list ul li span a{
+    color: #000;
+    font-weight: 500;
+    font-size: 15px;
+    text-decoration: none;
+}
 /* Mobile */
 @media only screen and (max-width: 767px){
     #about{
